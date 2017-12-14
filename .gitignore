@@ -2,3 +2,5 @@
 /nbactions.xml
 /release.properties
 /pom.xml.releaseBackup
+/.idea/
+*.iml
